@@ -121,7 +121,7 @@ function shipCounter(sea, lineSize) {
 	return `I-deck: ${answer(1)}, II-deck: ${answer(2)}, III-deck: ${answer(3)}, IV-deck: ${answer(4)}, V-deck: ${answer(5)}, VI-deck: ${answer(6)} ...`;
 };
 
-console.log(shipCounter(sea, 12));
+console.log(shipCounter(sea, 12))
 
 
 
